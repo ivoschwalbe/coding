@@ -46,3 +46,5 @@ print("# " * 10)
 happy_bday.count_lines()
 fuch_dhdGg.count_lines()
 bulls_on_parade.count_lines()
+
+# Noch ein Kommentar
