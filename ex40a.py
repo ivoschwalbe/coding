@@ -12,3 +12,5 @@ class MyStuff(object):
 a = MyStuff()
 a.apple()
 print(a.tangerine)
+
+# Geht das?
