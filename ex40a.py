@@ -14,6 +14,7 @@ a.apple()
 print(a.tangerine)
 
 # Klar geht das. Und zwar super :)
+# Hahaha!
 # Geht das?
 # Und das?
 # Und noch einmal
