@@ -13,6 +13,7 @@ a = MyStuff()
 a.apple()
 print(a.tangerine)
 
+# Klar geht das. Und zwar super :)
 # Geht das?
 # Und das?
 # Und noch einmal
