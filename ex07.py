@@ -28,5 +28,3 @@ print(end7 + end8 + end9 + end10 + end11 + end12)
 # C -- h -- e -- e -- s -- e oo Burger
 print(end1, end2, end3, end4, end5, end6, sep = " -- ", end = " oo ")
 print(end7 + end8 + end9 + end10 + end11 + end12)
-
-# Test
